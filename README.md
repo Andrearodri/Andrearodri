@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack Júnior | IA Aplicada**
 
-Sou desenvolvedor full stack júnior com foco em IA aplicada, sites, sistemas, dashboards, automações e soluções digitais. Construo projetos do zero ao deploy, com atenção a qualidade de código, experiência do usuário e resultados práticos.
+Sou desenvolvedor full stack júnior com foco em IA aplicada, sites, sistemas, dashboards, automações e soluções digitais. Construo projetos do zero ao deploy, com atenção à qualidade de código, experiência do usuário e resultados práticos.
 
 Atualmente em evolução contínua — aprendendo, construindo e me posicionando para oportunidades remotas.
 
@@ -38,32 +38,32 @@ Atualmente em evolução contínua — aprendendo, construindo e me posicionando
 
 ---
 
-## Areas de Atuacao
+## Áreas de Atuação
 
 - Sites e landing pages modernas
-- Sistemas web full stack com autenticacao e banco de dados
-- Dashboards e visualizacao de dados
-- Automacoes e integracao com IA
-- APIs REST e integracao de servicos
+- Sistemas web full stack com autenticação e banco de dados
+- Dashboards e visualização de dados
+- Automações e integração com IA
+- APIs REST e integração de serviços
 
 ---
 
 ## Projetos em Destaque
 
-| Projeto | Descricao | Tecnologias | Deploy |
+| Projeto | Descrição | Tecnologias | Deploy |
 |---|---|---|---|
-| [clone-tab-news](https://github.com/Andrearodri/clone-tab-news) | Clone do TabNews — projeto de estudo full stack com foco em Next.js, boas praticas e deploy | JavaScript, Next.js | [Ver online](https://clone-tab-news-blond-omega.vercel.app) |
+| [clone-tab-news](https://github.com/Andrearodri/clone-tab-news) | Projeto de estudo full stack iniciado no curso.dev — boas práticas, Next.js e deploy | JavaScript, Next.js | [Ver online](https://clone-tab-news-blond-omega.vercel.app) |
 
-> Mais projetos em construcao. Em breve: dashboard de dados, sistema CRUD completo e automacao com IA.
+> Mais projetos em construção. Em breve: dashboard de dados, sistema CRUD completo e automação com IA.
 
 ---
 
 ## Contato
 
 - LinkedIn: em breve
-- Portfolio: em breve
+- Portfólio: em breve
 - E-mail: em breve
 
 ---
 
-*Disponivel para oportunidades remotas como Desenvolvedor Full Stack Junior.*
+*Disponível para oportunidades remotas como Desenvolvedor Full Stack Júnior.*
