@@ -48,7 +48,7 @@ Aplicação de gestão de leads com dashboard, quadro Kanban interativo, organiz
 ## O que estou construindo agora
 
 - Preparando o **Lead Flow Studio** para deploy público e publicação do repositório
-- Desenvolvendo o portfólio técnico em **[andrestudiodev.duckdns.org](https://andrestudiodev.duckdns.org/)**
+- Desenvolvendo o portfólio técnico em **[andrestudio.dev.br](https://andrestudio.dev.br/)**
 - Aprofundando conhecimentos em **TanStack Router**, **Cloudflare Workers** e **automações com IA**
 
 ---
@@ -56,7 +56,7 @@ Aplicação de gestão de leads com dashboard, quadro Kanban interativo, organiz
 ## Contato
 
 - **LinkedIn:** [linkedin.com/in/andreaparecidorodrigues-dev](https://www.linkedin.com/in/andreaparecidorodrigues-dev/)
-- **Portfólio:** [andrestudiodev.duckdns.org](https://andrestudiodev.duckdns.org/)
+- **Portfólio:** [andrestudio.dev.br](https://andrestudio.dev.br/)
 - **GitHub:** [github.com/Andrearodri](https://github.com/Andrearodri)
 
 ---
